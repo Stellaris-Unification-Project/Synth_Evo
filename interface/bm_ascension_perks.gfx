@@ -1,0 +1,14 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ap_biological_mastery"
+		texturefile = "gfx/interface/icons/ascension_perks/ap_biological_mastery.dds"
+		alwaystransparent = yes
+	}
+	
+		spriteType = {
+		name = "GFX_ap_gestalt_biological_mastery"
+		texturefile = "gfx/interface/icons/ascension_perks/ap_biological_mastery.dds"
+		alwaystransparent = yes
+	}
+}

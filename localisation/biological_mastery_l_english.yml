@@ -1,0 +1,16 @@
+﻿l_english:
+
+ requires_ap_synthetic_evolution:1 "$TRIGGER_FAIL$Requires the §Y$ap_synthetic_evolution$§! Ascension Perk."
+ ap_biological_mastery:0 "Biological Mastery"
+ ap_biological_mastery_desc:0 "Not all are worthy to join us in Synthetic immortality. For those trapped in the confines of flesh, we will sculpt and remodel them to suit our needs."
+ ap_biological_mastery_modifier_desc:0 "$species_trait_points_add$: $POINTS|0=+$\n$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$: $COST_MULT|%0=-$"
+ requires_civic_bio_machines:1 "$TRIGGER_FAIL$Requires the §Y$civic_machine_assimilator$§! or §Y$civic_machine_servitor$§! Civic."
+ ap_gestalt_biological_mastery:0 "Biological Mastery"
+ ap_gestalt_biological_mastery_desc:0 "From the greatest terminals to the tiniest of cells, nothing will escape our perfection."
+ ap_gestalt_biological_mastery_modifier_desc:0 "$species_trait_points_add$: $POINTS|0=+$\n$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$: $COST_MULT|%0=-$"
+ building_bm_clone_vats:0 "Clone Vats"
+ building_bm_clone_vats_desc:2 "Clone Vats allow for a remarkable increase to population growth speed."
+ biosyn.13.a:0 "We now possess the capacity to enhance the messenger species."
+ biosyn.14.name:0 "The Messenger becomes us"
+ biosyn.14.desc:0 "With our latest advances, we now possess the ability to expand on and fully exploit the Messenger species genome. A viral code has been distributed instantaneously through the [Root.GetSpeciesName] operating system, unlocking new intellectual capabilities.\n\n[Root.GetSpeciesNamePlural] everywhere will now have the Erudite trait. "
+ biosyn.14.a:0 "What was, will be."
